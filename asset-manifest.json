@@ -1,11 +1,12 @@
 {
-  "main.css": "static/css/main.4a068eca.css",
-  "main.css.map": "static/css/main.4a068eca.css.map",
-  "main.js": "static/js/main.c82138c2.js",
-  "main.js.map": "static/js/main.c82138c2.js.map",
+  "main.css": "static/css/main.111ac803.css",
+  "main.css.map": "static/css/main.111ac803.css.map",
+  "main.js": "static/js/main.c61da6e4.js",
+  "main.js.map": "static/js/main.c61da6e4.js.map",
   "static/media/assemble.jpg": "static/media/assemble.56fa1990.jpg",
   "static/media/background-image.jpg": "static/media/background-image.e5fa1f3c.jpg",
   "static/media/betway.jpg": "static/media/betway.0ff2415b.jpg",
   "static/media/blockchain.jpg": "static/media/blockchain.9b255628.jpg",
-  "static/media/caterbase.jpg": "static/media/caterbase.ea08dcce.jpg"
+  "static/media/caterbase.jpg": "static/media/caterbase.ea08dcce.jpg",
+  "static/media/fanbytes.jpg": "static/media/fanbytes.fdff409e.jpg"
 }
