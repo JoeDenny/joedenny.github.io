@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.839815b1.chunk.css",
+    "main.js": "/static/js/main.fdb323e8.chunk.js",
+    "main.js.map": "/static/js/main.fdb323e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a6d3dcc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a6d3dcc.js.map",
+    "static/js/2.fb947e25.chunk.js": "/static/js/2.fb947e25.chunk.js",
+    "static/js/2.fb947e25.chunk.js.map": "/static/js/2.fb947e25.chunk.js.map",
+    "static/js/3.7319742a.chunk.js": "/static/js/3.7319742a.chunk.js",
+    "static/js/3.7319742a.chunk.js.map": "/static/js/3.7319742a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.839815b1.chunk.css.map": "/static/css/main.839815b1.chunk.css.map",
+    "static/js/2.fb947e25.chunk.js.LICENSE.txt": "/static/js/2.fb947e25.chunk.js.LICENSE.txt",
+    "static/media/assemble.80e9551b.jpg": "/static/media/assemble.80e9551b.jpg",
+    "static/media/betway.9c7ecf07.jpg": "/static/media/betway.9c7ecf07.jpg",
+    "static/media/bike1.b23bf178.jpg": "/static/media/bike1.b23bf178.jpg",
+    "static/media/blockchain.dc2d89f8.jpg": "/static/media/blockchain.dc2d89f8.jpg",
+    "static/media/caterbase.bcf6e961.jpg": "/static/media/caterbase.bcf6e961.jpg",
+    "static/media/fanbytes.cd12ea8f.jpg": "/static/media/fanbytes.cd12ea8f.jpg",
+    "static/media/sourcebuffet.57f5f7b1.jpg": "/static/media/sourcebuffet.57f5f7b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6d3dcc.js",
+    "static/js/2.fb947e25.chunk.js",
+    "static/css/main.839815b1.chunk.css",
+    "static/js/main.fdb323e8.chunk.js"
+  ]
+}
