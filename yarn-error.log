@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/joedenny/.nvm/versions/node/v15.5.1/bin/node /usr/local/bin/yarn start
+
+PATH: 
+  /Users/joedenny/.nvm/versions/node/v15.5.1/bin:/usr/local/php5/bin:/usr/local/opt/mongodb-community@4.2/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/joedenny/.nvm/versions/node/v15.5.1/bin:/usr/local/php5/bin:/usr/local/opt/mongodb-community@4.2/bin:/Users/joedenny/bin:/usr/local/php5-7.2.2-20180201-132629/bin:/usr/local/mysql/bin:/Users/joedenny/.composer/vendor/bin:/Users/joedenny/bin:/usr/local/bin:/usr/local/php5-7.2.2-20180201-132629/bin:/usr/local/mysql/bin:/Users/joedenny/.composer/vendor/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  15.5.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/joedenny/www/sites/joe-denny-portfolio-new/joedenny.github.io"
+      at new MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:109:13
